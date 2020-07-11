@@ -19,3 +19,5 @@ error.log*
 *.db
 *.log
 ubike-main/src/main/resources/static/
+
+../.idea/
